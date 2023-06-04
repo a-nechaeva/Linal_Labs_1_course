@@ -54,6 +54,7 @@ def main():
     angle_pushka = 0
 
     # construct the plane
+    
     p_1 = [v[0], v[1], v[2]]
     p_2 = [v[0] + push_right[0], v[1] + push_right[1], v[2] + push_right[2]]
     p_3 = [v[0] + a_real[0], v[1] + a_real[1], v[2] + a_real[2]]
